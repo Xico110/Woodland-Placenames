@@ -1,0 +1,1 @@
+var json_AppleFeature_19 = {"type":"FeatureCollection","name":"AppleFeature_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Species":"Apple","Placename":"Glenealo","Meaning":"Valley of the Apple Trees"},"geometry":{"type":"Point","coordinates":[-6.404096755168391,53.007970900755723]}}]}

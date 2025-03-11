@@ -1,0 +1,1 @@
+var json_YewFeature_11 = {"type":"FeatureCollection","name":"YewFeature_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Species":"Yew","Placename":"Luganure","Meaning":"Hollow of the Yew"},"geometry":{"type":"Point","coordinates":[-6.381288050803399,53.024663932646895]}}]}
